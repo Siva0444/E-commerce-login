@@ -28,31 +28,45 @@ if you purchase an item. You need to select 2
 
 if you don't have enough money in your wallet it shows message like insufficient and ask to recharge your wallet.
 if you type yes or y  it will ask for amount 
+
+
 <img width="361" alt="insufficient" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/d0a0915c-2982-4fa4-9743-eebf34a5a92c">
 
 
 if you don't want purchase the item or don't want to recharge you need to select no.
+
+
 <img width="346" alt="insufficient no" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/0951a78c-91e8-4888-9b56-635f72ecc7e8">
 
 
 if You want recharge for moblie or etc you need select 3.
 you just need enter amount if the recharge amount is less than your balance. It will automatically recharge 
+
+
 <img width="346" alt="recharge" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/0eba95e4-aaf2-4722-9d87-483df25f0ce2">
 
 
 if it is more than balance it shows message like insufficient and ask topup your wallet.
 if you type yes or y  it will ask for amount .
+
+
 <img width="361" alt="insufficient" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/d0a0915c-2982-4fa4-9743-eebf34a5a92c">
 
 
 if you don't want recharge the item or don't want to recharge you need to select no.
+
+
 <img width="346" alt="insufficient no" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/0951a78c-91e8-4888-9b56-635f72ecc7e8">
 
 
 if you want logout you need select 5 
+
+
 <img width="346" alt="5" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/01f5148c-038c-4898-b5ee-3f358fdd7840">
 
 
 if you select any number not in the range or not in the login page. It shows choose correct one
+
+
 <img width="346" alt="unknown" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/2684f6a4-73dc-4afb-ada6-7822bbe3c4f0">
 
