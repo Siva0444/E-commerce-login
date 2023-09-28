@@ -21,6 +21,8 @@ and it will ask for how much do you want to add
 
 
 if you purchase an item. You need to select 2
+
+
 <img width="400" alt="purchase" src="https://github.com/Siva0444/E-commerce-login/assets/112319274/937ebc04-f9c4-4704-bc45-a41ab1b8bfe1">
 
 
